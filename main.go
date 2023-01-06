@@ -10,5 +10,5 @@ func main() {
 
 	aaa := tutil.RandNum()
 	fmt.Println("aaa", aaa)
-
+	tutil.VTestGetVersion()
 }

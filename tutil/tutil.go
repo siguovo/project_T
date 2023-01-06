@@ -23,3 +23,8 @@ func CheckURL(url string) bool {
 
 	return matched
 }
+
+// vesrion 1.0.1
+func VTestGetVersion() string {
+	return "v1.0.1"
+}
